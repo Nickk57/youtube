@@ -10,34 +10,143 @@
 </head>
 <body>
     <header>
-        <?php include('include/nav_bar.php') ?>
+        <aside class="col-md-12">
+            <?php include('include/nav_bar.php') ?>
+        </aside>
     </header>
     <main>
-    <div class="grid">
-    <div class="grid justify-content-center">
-        <div class="row justify-content-center">
-            <div class="col">
-                <img src="">
-                <h2>TEXT</h2>
-                <p>youtubeur<br>
-                nombre de vue ° date de public.</p>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-8">
+                    <div class="row">
+                        <div class="col-md-2"> <?php include('include/contenu.php') ?></div>
+                        <div class="col-md-10 col-md-offset-2">
+                            <div class="row text-center justify-content-center">
+                                <div class="col-sm-3 col-md-offset-1 margin1">
+                                    <div class="col-auto">
+                                        <a href="video.php">
+                                        <img src="images/hq720.webp" width="100%">
+                                        <h2>NFS UNDERGROUND 2</h2>
+                                        <p>youtubeur<br>
+                                        95k vues ° il y a 2 semaines</p>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-md-offset-1 margin1">
+                                    <div class="col-auto">
+                                        <a href="video.php">
+                                        <img src="images/hq720.webp" width="100%">
+                                        <h2>NFS UNDERGROUND 2</h2>
+                                        <p>youtubeur<br>
+                                        95k vues ° il y a 2 semaines</p>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-md-offset-1 margin1">
+                                    <div class="col-auto">
+                                        <a href="video.php">
+                                        <img src="images/hq720.webp" width="100%">
+                                        <h2>NFS UNDERGROUND 2</h2>
+                                        <p>youtubeur<br>
+                                        95k vues ° il y a 2 semaines</p>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-md-offset-1 margin1">
+                                    <div class="col-auto">
+                                        <a href="video.php">
+                                        <img src="images/hq720.webp" width="100%">
+                                        <h2>NFS UNDERGROUND 2</h2>
+                                        <p>youtubeur<br>
+                                        95k vues ° il y a 2 semaines</p>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-sm-3 col-md-offset-1">
+                                    <div class="col">
+                                        <a href="video.php">
+                                        <img src="images/hq720.webp" width="100%">
+                                        <h2>NFS UNDERGROUND 2</h2>
+                                        <p>youtubeur<br>
+                                        95k vues ° il y a 2 semaines</p>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-md-offset-1">
+                                    <div class="col">
+                                        <a href="video.php">
+                                        <img src="images/hq720.webp" width="100%">
+                                        <h2>NFS UNDERGROUND 2</h2>
+                                        <p>youtubeur<br>
+                                        95k vues ° il y a 2 semaines</p>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-md-offset-1">
+                                    <div class="col">
+                                        <a href="video.php">
+                                        <img src="images/hq720.webp" width="100%">
+                                        <h2>NFS UNDERGROUND 2</h2>
+                                        <p>youtubeur<br>
+                                        95k vues ° il y a 2 semaines</p>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-md-offset-1">
+                                    <div class="col">
+                                        <a href="video.php">
+                                        <img src="images/hq720.webp" width="100%">
+                                        <h2>NFS UNDERGROUND 2</h2>
+                                        <p>youtubeur<br>
+                                        95k vues ° il y a 2 semaines</p>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-sm-3 col-md-offset-1">
+                                    <div class="col">
+                                        <a href="video.php">
+                                        <img src="images/hq720.webp" width="100%">
+                                        <h2>NFS UNDERGROUND 2</h2>
+                                        <p>youtubeur<br>
+                                        95k vues ° il y a 2 semaines</p>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-md-offset-1">
+                                    <div class="col">
+                                        <a href="video.php">
+                                        <img src="images/hq720.webp" width="100%">
+                                        <h2>NFS UNDERGROUND 2</h2>
+                                        <p>youtubeur<br>
+                                        95k vues ° il y a 2 semaines</p>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-md-offset-1">
+                                    <div class="col">
+                                        <a href="video.php">
+                                        <img src="images/hq720.webp" width="100%">
+                                        <h2>NFS UNDERGROUND 2</h2>
+                                        <p>youtubeur<br>
+                                        95k vues ° il y a 2 semaines</p>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-md-offset-1">
+                                    <div class="col">
+                                        <a href="video.php">
+                                        <img src="images/hq720.webp" width="100%">
+                                        <h2>NFS UNDERGROUND 2</h2>
+                                        <p>youtubeur<br>
+                                        95k vues ° il y a 2 semaines</p>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="col">
-                <img src="">
-                <h2>TEXT</h2>
-                <p>youtubeur<br>
-                    nombre de vue ° date de public.</p>
-            </div>
-            <div class="col">
-                <img src="">
-                <h2>TEXT</h2>
-                <p>youtubeur<br>
-                nombre de vue ° date de public.</p>
-            </div>
         </div>
-    </div>
-
     </main>
     <footer>
 
